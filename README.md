@@ -12,3 +12,6 @@ Custom Reports: Tailored reports that highlight critical metrics and trends, fac
 Data Integration: Seamless integration with various data sources to ensure comprehensive and up-to-date analytics.
 
 Actionable Insights: Detailed analysis and recommendations to refine marketing strategies, improve customer engagement, and boost overall profitability.E
+
+![image](https://github.com/user-attachments/assets/b417588f-507f-48c0-94a9-73f790dac29a)
+
