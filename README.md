@@ -6,6 +6,9 @@ This project focuses on leveraging data analytics to enhance e-commerce strategi
 
 Key Features
 Dynamic Dashboards: Interactive and visually appealing dashboards that provide real-time insights into sales, customer behavior, and market trends.
+
 Custom Reports: Tailored reports that highlight critical metrics and trends, facilitating data-driven decision-making.
+
 Data Integration: Seamless integration with various data sources to ensure comprehensive and up-to-date analytics.
+
 Actionable Insights: Detailed analysis and recommendations to refine marketing strategies, improve customer engagement, and boost overall profitability.E
