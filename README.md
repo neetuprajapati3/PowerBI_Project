@@ -1,6 +1,8 @@
-Enhancing E-Commerce Strategies through Data Analytics using PowerBI
-Overview
+**Enhancing E-Commerce Strategies through Data Analytics using PowerBI**
+
+**Overview**
 This project focuses on leveraging data analytics to enhance e-commerce strategies through the use of PowerBI. By analyzing key performance indicators and customer behavior metrics, we aim to provide actionable insights that drive business growth and optimize operational efficiency.
+
 
 Key Features
 Dynamic Dashboards: Interactive and visually appealing dashboards that provide real-time insights into sales, customer behavior, and market trends.
